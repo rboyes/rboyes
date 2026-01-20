@@ -1,4 +1,4 @@
-## Hey, I'm Richard 👋
+## Hey, I'm Rich 👋
 
 This is mostly a place for learning, experiments, and half-finished ideas.
 
