@@ -1,19 +1,16 @@
-## Hey, I'm Rich 👋
+## Richard Boyes 👋
 
 This is mostly a place for learning, experiments, and half-finished ideas.
 
-I work with data and like trying to understand how things actually behave rather than how the docs say they should 😄
+I work with data and like working with code and machine learning.
 
 ### What you'll find here
 - Small proof-of-concept projects
 - Experiments that answered a specific question
-- Notes-in-code rather than production libraries
 - Some repos that exist mainly so I don’t forget things
 
 ### Things I like
 - Simple systems
 - Boring, reliable data pipelines
-- Understanding trade-offs instead of chasing tools
-- Writing SQL that future-me won’t hate
 
 If anything here is useful to you, feel free to steal it.
